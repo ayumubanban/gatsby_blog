@@ -1,3 +1,17 @@
+Gatsbyで作ったブログ。
+Contentfulは個人的に使いにくいと感じたので、記事はmarkdownでゴリゴリ書いていく方向で。
+
+### 🎓 Reference
+
+https://www.udemy.com/course/react-gatsbyjs-contentful/
+
+### 🎓 ここも後々ブログをアップデートするために参考にしたい。
+ちなみにすでにシンタックスハイライトはこのブログを参考に実装した。
+
+https://takumon.com/tags/gatsby/
+
+---
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
